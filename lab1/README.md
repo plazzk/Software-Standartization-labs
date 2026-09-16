@@ -8,22 +8,22 @@
 ## 📥 Скачать
 
 ### Вариант 1: Установщик (рекомендуется) ⭐
-**[️ HalsteadApp-Setup.exe](https://github.com/plazzk/Software-Standardization-labs/releases/download/v1.0/HalsteadApp-Setup.exe)** (34.9 MB)
+[⬇️ Скачать HalsteadApp-Setup.exe](https://github.com/plazzk/Software-Standartization-labs/releases/download/v1.0/HalsteadApp-Setup.exe) *(34.9 MB)*
 
 Установщик с выбором папки установки. После установки ярлык появится на рабочем столе и в меню Пуск.
 
 ### Вариант 2: ZIP-архив (portable) 📦
-**[️ HalsteadApp.zip](https://github.com/plazzk/Software-Standardization-labs/releases/download/v1.0/HalsteadApp.zip)** (45.5 MB)
+[⬇️ Скачать HalsteadApp.zip](https://github.com/plazzk/Software-Standartization-labs/releases/download/v1.0/HalsteadApp.zip) *(45.5 MB)*
 
 Программа работает без установки — просто распакуйте и запустите `HalsteadApp.exe` из распакованной папки.
 
-️ **Важно:** Не перемещайте `HalsteadApp.exe` из распакованной папки.
+⚠️ **Важно:** Не перемещайте `HalsteadApp.exe` из распакованной папки, иначе программа не найдет встроенную Java.
 
 ## 📋 Требования
 - Windows 10 или новее
 - Java **не требуется** (встроена в приложение)
 
-##  Файлы проекта
+## 📁 Файлы проекта
 | Файл | Описание |
 |------|----------|
 | `Sample.cs` | Пример кода на C# для анализа |
