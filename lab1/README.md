@@ -10,7 +10,7 @@
 ### Вариант 1: Установщик (рекомендуется) ⭐
 [⬇️ Скачать HalsteadApp-Setup.exe](https://github.com/plazzk/Software-Standartization-labs/releases/download/v1.0/HalsteadApp-Setup.exe) *(34.9 MB)*
 
-Установщик с выбором папки установки. После установки ярлык появится на рабочем столе и в меню Пуск.
+Установщик с выбранным путём для установки "D:\HalsteadApp". После установки ярлык появится на рабочем столе и в меню Пуск.
 
 ### Вариант 2: ZIP-архив (portable) 📦
 [⬇️ Скачать HalsteadApp.zip](https://github.com/plazzk/Software-Standartization-labs/releases/download/v1.0/HalsteadApp.zip) *(45.5 MB)*
